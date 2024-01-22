@@ -1,0 +1,38 @@
+[
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "Springboot",
+    "imageSrc": "skills/springboot.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "MySql",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "Kafka",
+    "imageSrc": "skills/kafka.png"
+  },
+  {
+    "title": "RabbitMQ",
+    "imageSrc": "skills/rabbitmq.png"
+  },
+  {
+    "title": "Kubernetes",
+    "imageSrc": "skills/kubernetes.png"
+  }
+]

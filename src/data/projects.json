@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Instagram Clone",
+    "imageSrc": "projects/project.png",
+    "description": "Created an Instagram clone using ReactJS and Firebase.",
+    "skills": ["React", "Firebase"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "EazySchool",
+    "imageSrc": "projects/project.png",
+    "description": "Created an school application using Springboot.",
+    "skills": ["SpringBoot","java"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+  
+]
